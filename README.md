@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - I got the MPhil degree in CUHKSZ, supervised by Prof. CHUNG, Yeh-Ching, and I am also looking for a PhD opportunity.
 - My favorite language: Rust
 <!-- - How to reach me: huangwenyuu@qq.com -->
+- Chinese Blog: https://www.cnblogs.com/uran0sh
